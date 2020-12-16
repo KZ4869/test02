@@ -7,4 +7,5 @@ package com.kz.pojo;
  */
 public class User {
     private String username;
+    private int cc;
 }
